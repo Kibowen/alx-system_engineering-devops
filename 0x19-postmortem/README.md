@@ -2,9 +2,9 @@
 
 # Caching problem.
 ## Issue Summary:
-    Impact: The online shopping platform experienced intermittent downtime and significant performance degradation, affecting approximately 35% of users. Users faced slow page loading times, inability to complete purchases, and intermittent errors during their browsing sessions.
+Impact: The online shopping platform experienced intermittent downtime and significant performance degradation, affecting approximately 35% of users. Users faced slow page loading times, inability to complete purchases, and intermittent errors during their browsing sessions.
 ## Timeline:
-* June 12, 2023, 10:15 AM (PST): The issue was detected when   monitoring systems reported a sudden increase in error rates and latency.
+* The issue was detected when   monitoring systems reported a sudden increase in error rates and latency.
 * The operations team was alerted through automated monitoring alerts.
 * Actions were taken to investigate the root cause of the issue, focusing on the web server, database, and external APIs.
 * Misleading investigation paths included a suspected issue with the external payment gateway and a potential database bottleneck.
